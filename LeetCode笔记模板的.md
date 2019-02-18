@@ -1,6 +1,6 @@
 ## 题目: 
 
-*tips*
+*tip*
 
 ### Method 1
 
