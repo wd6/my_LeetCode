@@ -6,7 +6,7 @@
 
 ### Method 1
 
-- **思路**: 指针迭代
+- **思路**: Remove duplicates from sorted linked list
 
   
 
